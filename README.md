@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam47-09&label=Profile%20views&color=0eb437&style=plastic" alt="shivam47-09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam47-09" alt="shivam47-09" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam47-09&title=Commits,Experience,Repositories" alt="shivam47-09" /></a> </p>
 
 - 🔭 I’m currently working on **CRM, Revenue management software & Task Management software**
 
