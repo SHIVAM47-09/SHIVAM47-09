@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **nestJs**
 
-- 💬 Ask me about **node.js,express.js, mongoDB**
+- 💬 Ask me about **node.js, express.js, mongoDB**
 
 - 📫 How to reach me **shiv.sharma4709@gmail.com**
 
