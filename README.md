@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam47-09&show_icons=true&locale=en&layout=compact" alt="shivam47-09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam47-09&" alt="shivam47-09" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=shivam47-09&" alt="shivam47-09" /></p>
