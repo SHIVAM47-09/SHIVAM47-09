@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam47-09&title=Commits,Experience,Repositories" alt="shivam47-09" /></a> </p>
 
-- 🔭 I’m currently working on **CRM, Revenue management software & Task management software**
+- 🔭 I’m currently working on **CRM, Revenue Management Software & Task Management Software**
 
 - 🌱 I’m currently learning **nestJs**
 
